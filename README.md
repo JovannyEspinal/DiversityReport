@@ -16,4 +16,4 @@
 * Way to request the addition of company or employee information
 
 ### Resources
-https://quip.com/7GSaAovqAPEh
+**Diversity at Startups:** https://quip.com/7GSaAovqAPEh
