@@ -1,2 +1,1 @@
-# diversity-report
-Diversity Report
+# Diversity Report
