@@ -13,3 +13,4 @@
 * Scrape or connect to LinkedIn
 * Form that companies can send to their employees to fill out (employers don't see the results and they are completely anon)
   * stats based on % reported
+* Way to request the addition of company or employee information
